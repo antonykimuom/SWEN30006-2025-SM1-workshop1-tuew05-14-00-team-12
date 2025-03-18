@@ -215,6 +215,15 @@
         <mxCell id="pNj-MUm9bFX-ct4rDTng-2" value="createAssessment(instructions, upload_method)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-12" y="-698" width="286" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3CCu69loO3eVmBycOpmv-1" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20.5" y="-615" as="sourcePoint" />
+            <mxPoint x="282.5" y="-615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CCu69loO3eVmBycOpmv-2" value="makeAssessment Available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="-641" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
