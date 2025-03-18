@@ -47,7 +47,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9oCLcEcfDenbLqw0ok5R-5" value="Student" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="710" width="200" height="60" as="geometry" />
+          <mxGeometry x="292.5" y="710" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9oCLcEcfDenbLqw0ok5R-11" value="email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9oCLcEcfDenbLqw0ok5R-5">
+          <mxGeometry x="-2.5" y="44" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9oCLcEcfDenbLqw0ok5R-12" value="student_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9oCLcEcfDenbLqw0ok5R-5">
+          <mxGeometry x="5" y="25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9oCLcEcfDenbLqw0ok5R-7" value="Instructor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292.5" y="810" width="200" height="60" as="geometry" />
