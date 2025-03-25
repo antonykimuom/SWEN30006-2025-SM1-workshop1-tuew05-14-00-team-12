@@ -249,7 +249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kmQ3neKlv8cHPWN57pvS" name="Page-2">
-    <mxGraphModel dx="1578" dy="88" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="446" dy="-764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,12 +317,6 @@
         <mxCell id="Y8rcZ6K47kUAh42UqdM5-5" value="uploadSubmission(submission)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="395" y="1676" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v5fBfM0DS_H2MrK-KHPc-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1310" y="1890" as="targetPoint" />
-            <mxPoint x="1149.3235294117649" y="1890" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hHONwAys-Kr1P_C4gkEi-1" value=":EmailService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="1100" y="1420" width="100" height="530" as="geometry" />
         </mxCell>
@@ -343,6 +337,9 @@
         </mxCell>
         <mxCell id="BrMFU7Vg_vuefZGuQp88-4" value="confirmSubmission(optionalNote)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="1737" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v5fBfM0DS_H2MrK-KHPc-4" value="receiptObject: receipt" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
