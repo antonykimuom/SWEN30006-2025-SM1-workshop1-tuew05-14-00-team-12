@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.2" pages="2">
   <diagram name="Page-1" id="rKbwExK-3vX0L_XHVtF7">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -249,7 +249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kmQ3neKlv8cHPWN57pvS" name="Page-2">
-    <mxGraphModel dx="1034" dy="-607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2052" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,7 +269,7 @@
           <mxGeometry x="312.5" y="1420" width="125" height="630" as="geometry" />
         </mxCell>
         <mxCell id="kBDNL1s5abJuNRnXS5A_-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="370" y="1510" width="10" height="310" as="geometry" />
+          <mxGeometry x="370" y="1510" width="10" height="520" as="geometry" />
         </mxCell>
         <mxCell id="iyluMNsesfhbFwEO1Rhv-2" value=":Subject" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="550" y="1420" width="100" height="630" as="geometry" />
@@ -286,7 +286,7 @@
         <mxCell id="hHONwAys-Kr1P_C4gkEi-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="iyluMNsesfhbFwEO1Rhv-3" vertex="1">
           <mxGeometry x="45" y="280" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFmubGN49_PwHtxKaLy0-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="iyluMNsesfhbFwEO1Rhv-3" vertex="1">
+        <mxCell id="GFmubGN49_PwHtxKaLy0-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="iyluMNsesfhbFwEO1Rhv-3">
           <mxGeometry x="45" y="340" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WrM8TaLKVNFUxB2C1ZhA-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kBDNL1s5abJuNRnXS5A_-1" target="iyluMNsesfhbFwEO1Rhv-2" edge="1">
@@ -308,15 +308,22 @@
         <mxCell id="Y8rcZ6K47kUAh42UqdM5-5" value="uploadSubmission(submission)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="395" y="1676" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v5fBfM0DS_H2MrK-KHPc-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hHONwAys-Kr1P_C4gkEi-1" target="v5fBfM0DS_H2MrK-KHPc-4" edge="1">
+        <mxCell id="v5fBfM0DS_H2MrK-KHPc-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hHONwAys-Kr1P_C4gkEi-1" target="v5fBfM0DS_H2MrK-KHPc-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1250" y="1900" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ykAAS_RXH_DPlEzv8sjG-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="hHONwAys-Kr1P_C4gkEi-1" target="kBDNL1s5abJuNRnXS5A_-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hHONwAys-Kr1P_C4gkEi-1" value=":EmailService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1100" y="1420" width="100" height="600" as="geometry" />
+          <mxGeometry x="1100" y="1420" width="100" height="620" as="geometry" />
         </mxCell>
         <mxCell id="07ah8P_prBFenSd4HUAf-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="hHONwAys-Kr1P_C4gkEi-1">
           <mxGeometry x="45" y="390" width="10" height="60" as="geometry" />
@@ -327,22 +334,22 @@
             <mxPoint x="869.5" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v5fBfM0DS_H2MrK-KHPc-2" value="send(emailAddress, receipt)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="915" y="1778" width="170" height="30" as="geometry" />
+        <mxCell id="v5fBfM0DS_H2MrK-KHPc-2" value="send(emailAddress, time, status)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1778" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BrMFU7Vg_vuefZGuQp88-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="BrMFU7Vg_vuefZGuQp88-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="1760" as="sourcePoint" />
             <mxPoint x="869.5" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrMFU7Vg_vuefZGuQp88-4" value="confirmSubmission(optionalNote)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="BrMFU7Vg_vuefZGuQp88-4" value="confirmSubmission(optionalNote)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="1737" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v5fBfM0DS_H2MrK-KHPc-4" value="receiptObject: receipt" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="1870" width="120" height="60" as="geometry" />
+        <mxCell id="v5fBfM0DS_H2MrK-KHPc-4" value="receiptObject: receipt" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1868" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5fBfM0DS_H2MrK-KHPc-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="v5fBfM0DS_H2MrK-KHPc-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="869.5" y="1810" as="sourcePoint" />
             <mxPoint x="1149.5" y="1810" as="targetPoint" />
@@ -350,6 +357,12 @@
               <mxPoint x="1040" y="1810" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ykAAS_RXH_DPlEzv8sjG-2" value="email(receiptObject)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="735" y="1958" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v5fBfM0DS_H2MrK-KHPc-7" value="receiptObject = create(time, status)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1868" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
