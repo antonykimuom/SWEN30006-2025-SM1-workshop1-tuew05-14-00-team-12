@@ -250,7 +250,7 @@
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="k3IEJMAI53Svd7K84ESS-54" value="Assessment Item" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="wHfV067CfWuDQIxYDQGR-2">
-          <mxGeometry x="480" y="540" width="230" height="150" as="geometry" />
+          <mxGeometry x="285.55" y="440" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="k3IEJMAI53Svd7K84ESS-55" value="- assessmentID: String&lt;div&gt;- assessmentTitle: String&lt;br&gt;&lt;div&gt;- methodOfUpload: String&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- dueDate: DateTime&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="k3IEJMAI53Svd7K84ESS-54">
           <mxGeometry y="26" width="230" height="64" as="geometry" />
@@ -276,6 +276,9 @@
         </mxCell>
         <mxCell id="ACjchlB8cUyKwme4c0zG-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Student&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# studentId: int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- name: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- email: String&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ writeNote(message: String): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="780" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ACjchlB8cUyKwme4c0zG-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oG6mhzbs1mH-vQNHf2pl-1" target="IdatpSVOikvMkdFeSqtJ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oG6mhzbs1mH-vQNHf2pl-1" value="LMS" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="160" height="86" as="geometry" />
