@@ -237,8 +237,13 @@
         <mxCell id="oG6mhzbs1mH-vQNHf2pl-4" value="&lt;div&gt;+ sendEmail(studentEmail: String, receiptDetails: boolean)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oG6mhzbs1mH-vQNHf2pl-1">
           <mxGeometry y="60" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xsophwxk2iRzKxB6CjQ9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xsophwxk2iRzKxB6CjQ9-2" target="oG6mhzbs1mH-vQNHf2pl-1">
+        <mxCell id="Xsophwxk2iRzKxB6CjQ9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="Xsophwxk2iRzKxB6CjQ9-2" target="oG6mhzbs1mH-vQNHf2pl-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACjchlB8cUyKwme4c0zG-32" value="&amp;lt;&amp;lt;uses&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xsophwxk2iRzKxB6CjQ9-6">
+          <mxGeometry x="0.3346" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
