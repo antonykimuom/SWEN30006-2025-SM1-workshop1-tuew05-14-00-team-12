@@ -250,7 +250,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B1JohCdrJ2O_T65LHiYw" name="Page-2">
-    <mxGraphModel dx="818" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="505" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,7 +269,7 @@
           <mxGeometry x="45" y="95" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SiJChIcVbJZUMJ_jH9KF-1" value=":Message" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="620" y="170" width="100" height="300" as="geometry" />
+          <mxGeometry x="690" y="170" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="SiJChIcVbJZUMJ_jH9KF-2" value=":Transaction" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="456" y="120" width="100" height="300" as="geometry" />
@@ -280,13 +280,13 @@
         <mxCell id="AL46lgVNtsKAn5LWiFvB-2" value="makeTransaction(price, paymentMethod)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="250" y="105" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mBBTheXUa9g6MEARs6s3-2" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+        <mxCell id="mBBTheXUa9g6MEARs6s3-2" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1.088;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mBBTheXUa9g6MEARs6s3-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="189.69" />
+              <mxPoint x="630" y="189.71" />
             </Array>
-            <mxPoint x="510" y="190.19" as="sourcePoint" />
-            <mxPoint x="619.4999999999998" y="189.69" as="targetPoint" />
+            <mxPoint x="540" y="189.71" as="sourcePoint" />
+            <mxPoint x="690" y="190.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="smmT50Cem-EoxhuvtHqS-1" value="message" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
@@ -295,8 +295,8 @@
             <mxPoint x="250" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBBTheXUa9g6MEARs6s3-5" value="createMessage(status)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="500" y="164" width="130" height="30" as="geometry" />
+        <mxCell id="mBBTheXUa9g6MEARs6s3-5" value="message = createMessage(status)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="165" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G79KKkLc4aPww-XVD8oM-1" value="makeTransaction(price, paymentMethod)" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
