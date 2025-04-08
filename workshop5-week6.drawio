@@ -515,7 +515,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uTJJrWUhoYuMsxQZZy6z" name="Page-3">
-    <mxGraphModel dx="856" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -538,7 +538,7 @@
           <mxGeometry x="390" y="210" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ULbJdRkJTRAN7Hk_RIvm-8" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="100" y="520" width="20" height="390" as="geometry" />
+          <mxGeometry x="100" y="520" width="20" height="560" as="geometry" />
         </mxCell>
         <mxCell id="ULbJdRkJTRAN7Hk_RIvm-9" value="StaffMember" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="65" y="550" width="90" height="30" as="geometry" />
@@ -550,7 +550,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ULbJdRkJTRAN7Hk_RIvm-11" value=":MST" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="260" y="520" width="100" height="610" as="geometry" />
+          <mxGeometry x="260" y="520" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="ULbJdRkJTRAN7Hk_RIvm-20" value="processSale(Sale: sale)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.497;exitY=0.709;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="ULbJdRkJTRAN7Hk_RIvm-19" parent="ULbJdRkJTRAN7Hk_RIvm-11" source="ULbJdRkJTRAN7Hk_RIvm-11">
           <mxGeometry x="1" y="10" relative="1" as="geometry">
@@ -566,7 +566,7 @@
           <mxGeometry x="40" y="290" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ULbJdRkJTRAN7Hk_RIvm-12" value=":Sale" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="430" y="610" width="100" height="360" as="geometry" />
+          <mxGeometry x="430" y="610" width="100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="ULbJdRkJTRAN7Hk_RIvm-14" value="createSale()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -584,7 +584,7 @@
           <mxGeometry x="60" y="670" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ULbJdRkJTRAN7Hk_RIvm-21" value=":Card" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="600" y="660" width="100" height="300" as="geometry" />
+          <mxGeometry x="600" y="660" width="100" height="420" as="geometry" />
         </mxCell>
         <mxCell id="ULbJdRkJTRAN7Hk_RIvm-22" value="checkCardValidity()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="ULbJdRkJTRAN7Hk_RIvm-21">
           <mxGeometry width="80" relative="1" as="geometry">
