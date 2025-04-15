@@ -149,7 +149,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cw8C0zDQLD4yALKRwnCY-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="30" y="70" width="440" height="760" as="geometry" />
+          <mxGeometry x="30" y="70" width="520" height="760" as="geometry" />
         </mxCell>
         <mxCell id="9AZdhYH_-3rhJlgLlI4j-1" value="Offer Plan" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="9AZdhYH_-3rhJlgLlI4j-2" edge="1" source="-j2wyPk0_nD72iTaFsqn-1">
           <mxGeometry relative="1" as="geometry">
