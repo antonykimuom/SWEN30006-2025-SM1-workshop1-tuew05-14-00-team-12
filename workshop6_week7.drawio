@@ -18,7 +18,7 @@
         <mxCell id="DMJnooLKA-B-t2b-hGLY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRJ8mgDmQ5J0IUnP7EwS-2" target="BRJ8mgDmQ5J0IUnP7EwS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DMJnooLKA-B-t2b-hGLY-5" value="Add Funds&lt;br&gt;[Funds greater than 0] &lt;br&gt;Reactive Account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="DMJnooLKA-B-t2b-hGLY-2">
+        <mxCell id="DMJnooLKA-B-t2b-hGLY-5" value="Add Funds&lt;br&gt;[Funds greater than 0]/&lt;br&gt;Reactive Account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="DMJnooLKA-B-t2b-hGLY-2">
           <mxGeometry x="-0.0687" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -37,7 +37,7 @@
         <mxCell id="l8mu7sLf6zM0whLVCfOa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="BRJ8mgDmQ5J0IUnP7EwS-4" target="BRJ8mgDmQ5J0IUnP7EwS-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8mu7sLf6zM0whLVCfOa-2" value="Customer Report&amp;nbsp;&lt;div&gt;[Credit Card Lost/Stolen]&lt;/div&gt;&lt;div&gt;Reissue Card&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="l8mu7sLf6zM0whLVCfOa-1" vertex="1" connectable="0">
+        <mxCell id="l8mu7sLf6zM0whLVCfOa-2" value="Customer Report&amp;nbsp;&lt;div&gt;[Credit Card Lost/Stolen]/&lt;/div&gt;&lt;div&gt;Reissue Card&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="l8mu7sLf6zM0whLVCfOa-1" vertex="1" connectable="0">
           <mxGeometry x="0.3154" y="-1" relative="1" as="geometry">
             <mxPoint x="-4" y="-9" as="offset" />
           </mxGeometry>
@@ -135,7 +135,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tSMKrX1w6h2ngQcTmiG0-7" value="Contact company&lt;div&gt;[Account resumed]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="l-YMz-IOa_D1taHD0E0X-3">
+        <mxCell id="tSMKrX1w6h2ngQcTmiG0-7" value="Account resumed&lt;br&gt;&lt;div&gt;[Company Contacted]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="l-YMz-IOa_D1taHD0E0X-3">
           <mxGeometry x="-0.011" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
