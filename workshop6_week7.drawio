@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="MYYgwm7f58dtCuq5sN9F">
-    <mxGraphModel dx="497" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,8 +15,11 @@
         <mxCell id="BRJ8mgDmQ5J0IUnP7EwS-1" value="Pending" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DMJnooLKA-B-t2b-hGLY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRJ8mgDmQ5J0IUnP7EwS-2" target="BRJ8mgDmQ5J0IUnP7EwS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BRJ8mgDmQ5J0IUnP7EwS-2" value="Suspended" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BRJ8mgDmQ5J0IUnP7EwS-3" value="Closed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="690" width="120" height="60" as="geometry" />
@@ -35,6 +38,13 @@
         <mxCell id="l8mu7sLf6zM0whLVCfOa-2" value="Reissue Card&amp;nbsp;&lt;div&gt;[Credit Card Lost/Stolen]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="l8mu7sLf6zM0whLVCfOa-1" vertex="1" connectable="0">
           <mxGeometry x="0.3154" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMJnooLKA-B-t2b-hGLY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRJ8mgDmQ5J0IUnP7EwS-4" target="BRJ8mgDmQ5J0IUnP7EwS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="560" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BRJ8mgDmQ5J0IUnP7EwS-4" value="Active" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -56,7 +66,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tSMKrX1w6h2ngQcTmiG0-2" value="did not pay bills" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="tSMKrX1w6h2ngQcTmiG0-1">
+        <mxCell id="tSMKrX1w6h2ngQcTmiG0-2" value="did not pay bills" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" connectable="0" vertex="1" parent="tSMKrX1w6h2ngQcTmiG0-1">
           <mxGeometry x="0.2627" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -74,7 +84,7 @@
         <mxCell id="egABtFyLxa8xAX-7MYNH-2" value="Customer Onboarded" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="93erz_28n9s-OVjPu_4n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.601;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="93erz_28n9s-OVjPu_4n-2" target="BRJ8mgDmQ5J0IUnP7EwS-4" edge="1">
+        <mxCell id="93erz_28n9s-OVjPu_4n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="93erz_28n9s-OVjPu_4n-2" target="BRJ8mgDmQ5J0IUnP7EwS-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="93erz_28n9s-OVjPu_4n-4" value="Pays all outstanding bills" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="93erz_28n9s-OVjPu_4n-3" vertex="1" connectable="0">
