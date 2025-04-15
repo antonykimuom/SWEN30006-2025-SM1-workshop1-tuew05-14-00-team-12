@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="MYYgwm7f58dtCuq5sN9F">
-    <mxGraphModel dx="948" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="258" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,11 @@
             <mxPoint x="355" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tSMKrX1w6h2ngQcTmiG0-5" value="inactive for 6 months" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="IrX3neLHdobmSPYEdxLl-1">
+          <mxGeometry x="-0.1533" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tSMKrX1w6h2ngQcTmiG0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="93erz_28n9s-OVjPu_4n-2" target="BRJ8mgDmQ5J0IUnP7EwS-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -67,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tSMKrX1w6h2ngQcTmiG0-2" value="did not pay bills" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" connectable="0" vertex="1" parent="tSMKrX1w6h2ngQcTmiG0-1">
+        <mxCell id="tSMKrX1w6h2ngQcTmiG0-2" value="did not pay bills" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="tSMKrX1w6h2ngQcTmiG0-1">
           <mxGeometry x="0.2627" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
