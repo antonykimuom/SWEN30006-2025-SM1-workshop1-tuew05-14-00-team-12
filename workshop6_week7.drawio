@@ -368,7 +368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tkHDcamlOTxq0sqx-fRv-1" value="&lt;div&gt;&amp;lt;&amp;lt;Abstract&amp;gt;&amp;gt;&lt;/div&gt;User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="570" width="250" height="282" as="geometry" />
+          <mxGeometry x="325" y="570" width="250" height="290" as="geometry" />
         </mxCell>
         <mxCell id="tkHDcamlOTxq0sqx-fRv-2" value="# id: int&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- name: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- email: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- dateOfBirth: DateTime&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- creditScore: int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tkHDcamlOTxq0sqx-fRv-1">
           <mxGeometry y="40" width="250" height="144" as="geometry" />
@@ -377,7 +377,7 @@
           <mxGeometry y="184" width="250" height="8" as="geometry" />
         </mxCell>
         <mxCell id="tkHDcamlOTxq0sqx-fRv-4" value="&lt;div&gt;+ makeReport(message: String):&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;ReportStatus&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;+ submitApplication(): Void&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;+ requestNewCard(): void&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tkHDcamlOTxq0sqx-fRv-1">
-          <mxGeometry y="192" width="250" height="90" as="geometry" />
+          <mxGeometry y="192" width="250" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
