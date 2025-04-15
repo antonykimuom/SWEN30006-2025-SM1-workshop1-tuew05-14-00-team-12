@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="3">
   <diagram name="Page-1" id="MYYgwm7f58dtCuq5sN9F">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,27 +61,14 @@
         <mxCell id="BRJ8mgDmQ5J0IUnP7EwS-5" value="Inactive" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IrX3neLHdobmSPYEdxLl-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BRJ8mgDmQ5J0IUnP7EwS-5" target="l-YMz-IOa_D1taHD0E0X-1" edge="1">
+        <mxCell id="IrX3neLHdobmSPYEdxLl-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BRJ8mgDmQ5J0IUnP7EwS-5" target="yIbzWKCwgJsNyynNhqDZ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="305" y="405" as="sourcePoint" />
-            <mxPoint x="390" y="690" as="targetPoint" />
+            <mxPoint x="390" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tSMKrX1w6h2ngQcTmiG0-5" value="inactive for 6 months /&lt;div&gt;Close Account&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="IrX3neLHdobmSPYEdxLl-1" vertex="1" connectable="0">
           <mxGeometry x="-0.1533" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tSMKrX1w6h2ngQcTmiG0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="93erz_28n9s-OVjPu_4n-2" target="l-YMz-IOa_D1taHD0E0X-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="790" y="715" />
-            </Array>
-            <mxPoint x="450" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tSMKrX1w6h2ngQcTmiG0-2" value="did not pay bills&lt;div&gt;[Enough time has passed] / Close Account&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="tSMKrX1w6h2ngQcTmiG0-1" vertex="1" connectable="0">
-          <mxGeometry x="0.2627" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -105,9 +92,6 @@
           <mxGeometry x="-0.297" relative="1" as="geometry">
             <mxPoint y="10" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="l-YMz-IOa_D1taHD0E0X-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="375" y="700" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-YMz-IOa_D1taHD0E0X-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BRJ8mgDmQ5J0IUnP7EwS-4" target="BRJ8mgDmQ5J0IUnP7EwS-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -137,6 +121,22 @@
         </mxCell>
         <mxCell id="tSMKrX1w6h2ngQcTmiG0-7" value="Account resumed&lt;br&gt;&lt;div&gt;[Company Contacted]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="l-YMz-IOa_D1taHD0E0X-3" vertex="1" connectable="0">
           <mxGeometry x="-0.011" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIbzWKCwgJsNyynNhqDZ-1" value="Closed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tSMKrX1w6h2ngQcTmiG0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="93erz_28n9s-OVjPu_4n-2" target="yIbzWKCwgJsNyynNhqDZ-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="730" />
+            </Array>
+            <mxPoint x="405" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tSMKrX1w6h2ngQcTmiG0-2" value="did not pay bills&lt;div&gt;[Enough time has passed] / Close Account&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="tSMKrX1w6h2ngQcTmiG0-1" vertex="1" connectable="0">
+          <mxGeometry x="0.2627" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -176,14 +176,14 @@
         <mxCell id="-j2wyPk0_nD72iTaFsqn-2" value="Healthy Debt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cw8C0zDQLD4yALKRwnCY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-j2wyPk0_nD72iTaFsqn-3" target="cw8C0zDQLD4yALKRwnCY-12">
+        <mxCell id="cw8C0zDQLD4yALKRwnCY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="-j2wyPk0_nD72iTaFsqn-3" target="cw8C0zDQLD4yALKRwnCY-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="190" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cw8C0zDQLD4yALKRwnCY-15" value="Referred to collection&lt;br&gt;[debt written-off or collected] /&lt;br&gt;Close account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" connectable="0" vertex="1" parent="cw8C0zDQLD4yALKRwnCY-14">
+        <mxCell id="cw8C0zDQLD4yALKRwnCY-15" value="Referred to collection&lt;br&gt;[debt written-off or collected] /&lt;br&gt;Close account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cw8C0zDQLD4yALKRwnCY-14" vertex="1" connectable="0">
           <mxGeometry x="-0.1541" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="29" as="offset" />
           </mxGeometry>
@@ -219,7 +219,7 @@
         <mxCell id="9AZdhYH_-3rhJlgLlI4j-2" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="450" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="laiLhAVBCdBNZRf5zh7p-1" value="[Payment not&amp;nbsp;&lt;div&gt;made] / Charge&lt;/div&gt;&lt;div&gt;$20&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZdhYH_-3rhJlgLlI4j-4" target="-j2wyPk0_nD72iTaFsqn-1">
+        <mxCell id="laiLhAVBCdBNZRf5zh7p-1" value="[Payment not&amp;nbsp;&lt;div&gt;made] / Charge&lt;/div&gt;&lt;div&gt;$20&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9AZdhYH_-3rhJlgLlI4j-4" target="-j2wyPk0_nD72iTaFsqn-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AZdhYH_-3rhJlgLlI4j-4" value="Grace Period" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -271,17 +271,17 @@
         <mxCell id="cw8C0zDQLD4yALKRwnCY-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="cw8C0zDQLD4yALKRwnCY-8" target="cw8C0zDQLD4yALKRwnCY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cw8C0zDQLD4yALKRwnCY-12" value="Closed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cw8C0zDQLD4yALKRwnCY-12" value="Closed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cw8C0zDQLD4yALKRwnCY-13" value="Active" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cw8C0zDQLD4yALKRwnCY-13" value="Active" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Qlsa1je5-Sb_ScR-jaBC" name="Page-3">
-    <mxGraphModel dx="893" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
