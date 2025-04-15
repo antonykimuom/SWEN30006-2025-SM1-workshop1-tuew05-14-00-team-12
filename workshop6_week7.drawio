@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="3">
   <diagram name="Page-1" id="MYYgwm7f58dtCuq5sN9F">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a-SBPIPKKlXZWAVtNyoW" name="Page-2">
-    <mxGraphModel dx="1185" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-j2wyPk0_nD72iTaFsqn-1" value="Payment Plan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="286" y="285" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-j2wyPk0_nD72iTaFsqn-2" value="Healthy Debt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="660" width="120" height="60" as="geometry" />
@@ -192,7 +192,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9AZdhYH_-3rhJlgLlI4j-2" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="331" y="450" width="30" height="30" as="geometry" />
+          <mxGeometry x="355" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiLhAVBCdBNZRf5zh7p-1" value="[Payment not&amp;nbsp;&lt;div&gt;made] / Charge&lt;/div&gt;&lt;div&gt;$20&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZdhYH_-3rhJlgLlI4j-4" target="-j2wyPk0_nD72iTaFsqn-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AZdhYH_-3rhJlgLlI4j-4" value="Grace Period" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="285" width="120" height="60" as="geometry" />
@@ -212,7 +215,7 @@
         <mxCell id="uxGcdgPoRedeiJ61UacF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uxGcdgPoRedeiJ61UacF-4" target="-j2wyPk0_nD72iTaFsqn-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="346" y="225" />
+              <mxPoint x="370" y="225" />
             </Array>
             <mxPoint x="296" y="225" as="sourcePoint" />
             <mxPoint x="666" y="260" as="targetPoint" />
@@ -220,7 +223,7 @@
         </mxCell>
         <mxCell id="kP9W1thK7tH7r5z_uNlH-1" value="[History of Missed&lt;div&gt;Payments] / Charge $20&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uxGcdgPoRedeiJ61UacF-6" connectable="0" vertex="1">
           <mxGeometry x="0.3455" relative="1" as="geometry">
-            <mxPoint x="-32" y="15" as="offset" />
+            <mxPoint x="12" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uxGcdgPoRedeiJ61UacF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uxGcdgPoRedeiJ61UacF-4" target="9AZdhYH_-3rhJlgLlI4j-4" edge="1">
