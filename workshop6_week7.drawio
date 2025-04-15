@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.12" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="2">
   <diagram name="Page-1" id="MYYgwm7f58dtCuq5sN9F">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a-SBPIPKKlXZWAVtNyoW" name="Page-2">
-    <mxGraphModel dx="663" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,7 +176,7 @@
             <mxPoint x="13" y="72" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cw8C0zDQLD4yALKRwnCY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9AZdhYH_-3rhJlgLlI4j-2" target="-j2wyPk0_nD72iTaFsqn-3">
+        <mxCell id="cw8C0zDQLD4yALKRwnCY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="9AZdhYH_-3rhJlgLlI4j-2" target="-j2wyPk0_nD72iTaFsqn-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="265" y="500" />
@@ -184,7 +184,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cw8C0zDQLD4yALKRwnCY-5" value="[Fail to response or&lt;div&gt;refuses plan]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="cw8C0zDQLD4yALKRwnCY-4">
+        <mxCell id="cw8C0zDQLD4yALKRwnCY-5" value="[Fail to response or&lt;div&gt;refuses plan]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cw8C0zDQLD4yALKRwnCY-4" vertex="1" connectable="0">
           <mxGeometry x="0.4188" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -216,6 +216,11 @@
             <mxPoint x="580" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kP9W1thK7tH7r5z_uNlH-1" value="[History of Missed&lt;div&gt;Payments] / Charge $20&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uxGcdgPoRedeiJ61UacF-6">
+          <mxGeometry x="0.3455" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uxGcdgPoRedeiJ61UacF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uxGcdgPoRedeiJ61UacF-4" target="9AZdhYH_-3rhJlgLlI4j-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -225,13 +230,10 @@
             <mxPoint x="590" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uxGcdgPoRedeiJ61UacF-10" value="[No History of&amp;nbsp;&lt;div&gt;Missed Payments]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="uxGcdgPoRedeiJ61UacF-7">
+        <mxCell id="uxGcdgPoRedeiJ61UacF-10" value="[No History of&amp;nbsp;&lt;div&gt;Missed Payments]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uxGcdgPoRedeiJ61UacF-7" connectable="0" vertex="1">
           <mxGeometry x="0.4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="uxGcdgPoRedeiJ61UacF-9" value="[History of Missed Payments] / Charge $20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cw8C0zDQLD4yALKRwnCY-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="70" width="440" height="700" as="geometry" />
