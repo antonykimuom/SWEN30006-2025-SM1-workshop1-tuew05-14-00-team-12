@@ -237,12 +237,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U1EtcF4jsrhvwf80mlwZ" name="Page-2">
-    <mxGraphModel dx="976" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T0SldUm0Bu7JboLxVpB9-1" value=":MiniExpediaFactory" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="120" height="300" as="geometry" />
+          <mxGeometry x="180" y="80" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="u1KJn7Yc7tinLDi9qFW3-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="20" height="300" as="geometry" />
@@ -257,30 +257,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m5TMYpoMBkTuPQoPmvSm-1" value=":QantasAdapter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="100" height="300" as="geometry" />
+          <mxGeometry x="420" y="160" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="m5TMYpoMBkTuPQoPmvSm-2" value=":VirginAdapter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="960" y="240" width="100" height="300" as="geometry" />
+          <mxGeometry x="860" y="240" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="m5TMYpoMBkTuPQoPmvSm-3" value=":JetstarAdapter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="740" y="200" width="100" height="300" as="geometry" />
+          <mxGeometry x="640" y="200" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="aAwz4rlR6FmDS3jifO50-1" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="340.1" y="180" as="sourcePoint" />
-            <mxPoint x="520" y="180" as="targetPoint" />
+            <mxPoint x="240.10000000000002" y="180" as="sourcePoint" />
+            <mxPoint x="420" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aAwz4rlR6FmDS3jifO50-2" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="T0SldUm0Bu7JboLxVpB9-1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="570.1" y="220" as="sourcePoint" />
-            <mxPoint x="740" y="220" as="targetPoint" />
+            <mxPoint x="470.1" y="220" as="sourcePoint" />
+            <mxPoint x="640" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aAwz4rlR6FmDS3jifO50-3" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="T0SldUm0Bu7JboLxVpB9-1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="790" y="260" as="sourcePoint" />
-            <mxPoint x="960" y="260.2" as="targetPoint" />
+            <mxPoint x="690" y="260" as="sourcePoint" />
+            <mxPoint x="860" y="260.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
